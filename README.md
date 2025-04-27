@@ -27,9 +27,8 @@ Sou **Rodrigo Dias**, entusiasta das melhores tecnologias de testes! 🚀
 - 📫 [LinkedIn](https://www.linkedin.com/in/rodrigo--dias/)
 - 💬 Me chama pra trocar uma ideia sobre tecnologia, testes ou qualquer outro assunto!
 
-## Projetos em destaque
-- [Nome do projeto](link): [Breve descrição]
-- [Nome do projeto](link): [Breve descrição]
+### Stats. 
+![ ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoDias01&theme=vue)
 
 ---
 
