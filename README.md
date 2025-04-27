@@ -1,6 +1,6 @@
 # Faaaala, galera! 👋
 
-Me chamo **Rodrigo Dias**, entusiasta das melhores tecnologias de testes! 🚀
+Me chamo **Rodrigo Dias**, entusiasta das melhores técnicas e tecnologias de testes! 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RodrigoDias01&label=Profile%20views&color=0e75b6&style=flat" alt="RodrigoDias01" /> </p>
 
