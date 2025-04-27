@@ -7,7 +7,7 @@ Me chamo **Rodrigo Dias**, entusiasta das melhores tecnologias de testes! 🚀
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Dias-fbca16?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigodias/)](https://www.linkedin.com/in/rodrigo--dias/) 
 
 ## Sobre mim
-- 🔍 **O que faço**: Atuo como Analista de Testes de Software implementando soluções de testes para garantir qualidade e performance.
+- 🔍 **O que faço**: Atuo como Analista de Testes de Software (QA) implementando soluções de testes para garantir qualidade e performance.
 - 📜 **Formação**: Ciência da Computação (Bacharel).
 - 🏅 **Certificação**: CTFL (ISTQB).
 - 💻 **Tecnologias favoritas**: Robot Framework, JUnit, Selenium, Python, Java.
